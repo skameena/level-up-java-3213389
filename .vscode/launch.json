@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PasswordComplexityCheck",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.PasswordComplexityCheck",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Launch PasswordComplexityCheck",
+      "request": "launch",
+      "mainClass": "PasswordComplexityCheck",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Launch EvenOrOdd",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.EvenOrOdd",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
